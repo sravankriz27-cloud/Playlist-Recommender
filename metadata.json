@@ -1,0 +1,5 @@
+{
+  "name": "VibeSync AI Playlist Generator",
+  "description": "An AI-powered music recommendation engine that creates personalized 20+ track playlists based on mood, genre, and popularity settings using Gemini 3 Flash.",
+  "requestFramePermissions": []
+}
